@@ -1,4 +1,3 @@
 # lolcommitbr
 
-
-fixed some stuf
+no we're not doing this again
